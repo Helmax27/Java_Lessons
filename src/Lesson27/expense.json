@@ -1,0 +1,158 @@
+[
+{
+  "who": "Joe",
+  "week": [
+    {
+      "number": 3,
+      "expense": [
+        {
+          "what": "Beer",
+          "amount": 18.00
+        },
+        {
+          "what": "Food",
+          "amount": 12.00
+        },
+        {
+          "what": "Food",
+          "amount": 19.00
+        },
+        {
+          "what": "Car",
+          "amount": 20.00
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "expense": [
+        {
+          "what": "Beer",
+          "amount": 19.00
+        },
+        {
+          "what": "Beer",
+          "amount": 16.00
+        },
+        {
+          "what": "Food",
+          "amount": 17.00
+        },
+        {
+          "what": "Food",
+          "amount": 17.00
+        },
+        {
+          "what": "Beer",
+          "amount": 14.00
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "expense": [
+        {
+          "what": "Beer",
+          "amount": 14.00
+        },
+        {
+          "what": "Food",
+          "amount": 12.00
+        }
+      ]
+    }
+  ]
+},
+{
+"who": "Beth",
+"week": [
+{
+"number": 3,
+"expense": [
+{
+"what": "Beer",
+"amount": 16.00
+}
+]
+},
+{
+"number": 4,
+"expense": [
+{
+"what": "Food",
+"amount": 17.00
+},
+{
+"what": "Beer",
+"amount": 15.00
+}
+]
+},
+{
+"number": 5,
+"expense": [
+{
+"what": "Food",
+"amount": 12.00
+},
+{
+"what": "Beer",
+"amount": 20.00
+}
+]
+}
+]
+},
+{
+"who": "Janet",
+"week": [
+{
+"number": 3,
+"expense": [
+{
+"what": "Car",
+"amount": 19.00
+},
+{
+"what": "Food",
+"amount": 18.00
+},
+{
+"what": "Beer",
+"amount": 18.00
+}
+]
+},
+{
+"number": 4,
+"expense": [
+{
+"what": "Car",
+"amount": 17.00
+}
+]
+},
+{
+"number": 5,
+"expense": [
+{
+"what": "Beer",
+"amount": 14.00
+},
+{
+"what": "Car",
+"amount": 12.00
+},
+{
+"what": "Beer",
+"amount": 19.00
+},
+{
+"what": "Food",
+"amount": 12.00
+}
+]
+}
+]
+}
+]

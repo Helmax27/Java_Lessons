@@ -1,0 +1,81 @@
+[{
+  "organization": "Aplit Soft",
+  "addres": {
+    "city": "Or Yehuda",
+    "street": "Moshe Aviv 6",
+    "phone": "0743233445"
+  },
+  "employees": [
+    {
+      "name": "Lena",
+      "dateOfBirth": "1972-09-06",
+      "position": "R&D manager",
+      "gender": "female"
+    },
+    {
+      "name": "Izik",
+      "dateOfBirth": "1971-05-25",
+      "position": "CEO",
+      "gender": "male"
+    },
+    {
+      "name": "Pavel",
+      "dateOfBirth": "1964-07-19",
+      "position": "CTO",
+      "gender": "male"
+    },
+    {
+      "name": "Boris",
+      "dateOfBirth": "1958-03-07",
+      "position": "Algorithmist",
+      "gender": "male"
+    },
+    {
+      "name": "Vlad",
+      "dateOfBirth": "1996-04-21",
+      "position": "SW developer",
+      "gender": "male"
+    }
+  ],
+  "numberOfRooms": 1,
+  "type": "Software company"
+
+},
+  {
+  "organization": "Roga i Kopyta",
+  "addres": {
+    "city": "Tel Aviv",
+    "street": "Rotshild 6",
+    "phone": "0743233225"
+  },
+  "employees": [
+    {
+      "name": "Sonya",
+      "dateOfBirth": "2005-03-02",
+      "position": "sekretar",
+      "gender": "female"
+    },
+    {
+      "name": "Valik",
+      "dateOfBirth": "1992-01-01",
+      "position": "Cleaner",
+      "gender": "male"
+    },
+    {
+      "name": "Sergei",
+      "dateOfBirth": "1950-07-07",
+      "position": "architect",
+      "gender": "male"
+    },
+    {
+      "name": "Oleg",
+      "dateOfBirth": "1970-12-11",
+      "position": "director",
+      "gender": "male"
+    }
+  ],
+  "numberOfRooms": 3,
+  "type": "Agro company"
+
+}
+]
